@@ -1,4 +1,5 @@
 Hello!
+adding a second line
 
 Cold and dry, but everything is my favoourite color!
 Stage means the file changes saved on local computer. 
