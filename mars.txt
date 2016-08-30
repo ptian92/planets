@@ -1,3 +1,5 @@
+Hello!
+
 Cold and dry, but everything is my favoourite color!
 Stage means the file changes saved on local computer. 
 Commit means put the staged changes with message. 
